@@ -28,8 +28,8 @@ Converts measurements between different units of length, weight, and temperature
 
 Demonstrates user input, conditional statements, and mathematical calculations.
 
-### 2. Weather Predictor
-A Python exercise demonstrating conditional logic and decision-making.
+### 2.Weather Data Fetcher
+A Python exercise calls the Open-Meteo REST API and parses the JSON response and decision-making.
 
 **Files:** `Weather_Predictor.py`, `Weather_Predictor.ipynb`
 

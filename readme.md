@@ -58,6 +58,7 @@ A Python program that takes any date, such as a birthday, anniversary, or other 
 - File handling and directory management
 - Working with dates and calendars
 - Git and GitHub version control
+- Calling REST APIs and parsing JSON data
 
 ## How to Run the Projects
 1. Download or clone this repository from GitHub.

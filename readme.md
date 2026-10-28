@@ -28,11 +28,10 @@ Converts measurements between different units of length, weight, and temperature
 
 Demonstrates user input, conditional statements, and mathematical calculations.
 
-### 2.Weather Data Fetcher
-A Python exercise calls the Open-Meteo REST API and parses the JSON response and decision-making.
+### 2. Weather Data Fetcher
+Retrieves a 7-day forecast for 16 Canadian cities from the Open-Meteo REST API, parses the JSON response, and displays daily maximum/minimum temperatures and midday wind speed. Includes error handling for invalid input and failed API requests.
 
-**Files:** `Weather_Predictor.py`, `Weather_Predictor.ipynb`
-
+**Files:** `Weather_Data_Fetcher.py`, `Weather_Data_Fetcher.ipynb`
 ### 3. Puzzle Game
 A Python-based puzzle game demonstrating programming logic and user interaction.
 
